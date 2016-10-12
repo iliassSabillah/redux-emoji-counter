@@ -1,5 +1,5 @@
 # Setup
-- clone the simple-react-setup and rename the folder 'redux-emoji-counter'
+- clone the 'redux-emoji-counter' repo
 - add in Redux by using `npm install redux`
 - add in [emoji.css](http://emojicss.com/) by following in his link tag `<link href="http://emojicss.com/emoji.css" rel="stylesheet">` into your `index.html` page. Be sure to look over the [emoji.css docs](http://emojicss.com/)
 
